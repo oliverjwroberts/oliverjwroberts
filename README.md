@@ -9,10 +9,6 @@ I'm Oliver, a Data and Software Engineer based in Cardiff.
 - 💡 I'm interested in Engineering, Artificial Intelligence, and Optimisation
 - ⚡ Fun fact, I love seeing people's desk/computer setups
 
-#### GitHub Stats 📈
-
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverjwroberts&theme=dark)](https://github.com/oliverjwroberts/github-readme-stats)
-
 #### Let's Connect 🤝
 
 You can find me on:
