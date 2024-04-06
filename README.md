@@ -13,8 +13,9 @@ I'm Oliver, a Data and Software Engineer based in Cardiff.
 
 You can find me on:
 
-- [Twitter](https://twitter.com/oliverjwroberts)
 - [GitHub (you're already here)](https://github.com/oliverjwroberts)
 - [LinkedIn](https://www.linkedin.com/in/oliverjwroberts/)
+- [Twitter](https://twitter.com/oliverjwroberts)
+- [Website](https://oliverjwroberts.com/)
 
 Or feel free to email me at [oliverjwroberts@gmail.com](mailto:oliverjwroberts@gmail.com).
